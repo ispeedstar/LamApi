@@ -1,0 +1,5 @@
+C:\Projects\exer\VS2010\LamApi\ParallelApi\bin\Release\ParallelApi.exe
+C:\Projects\exer\VS2010\LamApi\ParallelApi\bin\Release\ParallelApi.pdb
+C:\Projects\exer\VS2010\LamApi\ParallelApi\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\exer\VS2010\LamApi\ParallelApi\obj\x86\Release\ParallelApi.exe
+C:\Projects\exer\VS2010\LamApi\ParallelApi\obj\x86\Release\ParallelApi.pdb

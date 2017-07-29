@@ -1,0 +1,14 @@
+C:\Users\Stanley\AppData\Local\Temporary Projects\LamApi\bin\Debug\LamApi.exe
+C:\Users\Stanley\AppData\Local\Temporary Projects\LamApi\bin\Debug\LamApi.pdb
+C:\Users\Stanley\AppData\Local\Temporary Projects\LamApi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stanley\AppData\Local\Temporary Projects\LamApi\obj\x86\Debug\LamApi.exe
+C:\Users\Stanley\AppData\Local\Temporary Projects\LamApi\obj\x86\Debug\LamApi.pdb
+C:\Projects\exer\VS2010\LamApi\LamApi\obj\x86\Debug\LamApi.pdb
+C:\Projects\exer\VS2010\LamApi\LamApi\bin\Debug\LamApi.pdb
+C:\Projects\exer\VS2010\LamApi\LamApi\bin\Debug\mysql.data.dll
+C:\Projects\exer\VS2010\LamApi\LamApi\obj\x86\Debug\LamApi.Dialog.MultiListSelectForm.resources
+C:\Projects\exer\VS2010\LamApi\LamApi\bin\Debug\LamApi.exe.config
+C:\Projects\exer\VS2010\LamApi\LamApi\bin\Debug\LamApi.exe
+C:\Projects\exer\VS2010\LamApi\LamApi\obj\x86\Debug\LamApi.exe
+C:\Projects\exer\VS2010\LamApi\LamApi\obj\x86\Debug\LamApi.csproj.GenerateResource.Cache
+C:\Projects\exer\VS2010\LamApi\LamApi\obj\x86\Debug\LamApi.csprojResolveAssemblyReference.cache

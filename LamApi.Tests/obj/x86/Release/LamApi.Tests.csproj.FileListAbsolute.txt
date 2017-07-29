@@ -1,0 +1,11 @@
+C:\Projects\exer\VS2010\LamApi\LamApi.Tests\bin\Release\LamApi.Tests.pdb
+C:\Projects\exer\VS2010\LamApi\LamApi.Tests\bin\Release\LamApi.exe
+C:\Projects\exer\VS2010\LamApi\LamApi.Tests\bin\Release\nunit.framework.dll
+C:\Projects\exer\VS2010\LamApi\LamApi.Tests\bin\Release\nunit.mocks.dll
+C:\Projects\exer\VS2010\LamApi\LamApi.Tests\bin\Release\LamApi.pdb
+C:\Projects\exer\VS2010\LamApi\LamApi.Tests\bin\Release\nunit.framework.xml
+C:\Projects\exer\VS2010\LamApi\LamApi.Tests\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\exer\VS2010\LamApi\LamApi.Tests\obj\x86\Release\LamApi.Tests.pdb
+C:\Projects\exer\VS2010\LamApi\LamApi.Tests\bin\Release\LamApi.Tests.dll
+C:\Projects\exer\VS2010\LamApi\LamApi.Tests\obj\x86\Release\LamApi.Tests.dll
+C:\Projects\exer\VS2010\LamApi\LamApi.Tests\bin\Release\MySql.Data.dll

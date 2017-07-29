@@ -1,0 +1,4 @@
+C:\Projects\exer\VS2010\LamApi\ParallelApi\bin\Debug\ParallelApi.exe
+C:\Projects\exer\VS2010\LamApi\ParallelApi\bin\Debug\ParallelApi.pdb
+C:\Projects\exer\VS2010\LamApi\ParallelApi\obj\x86\Debug\ParallelApi.exe
+C:\Projects\exer\VS2010\LamApi\ParallelApi\obj\x86\Debug\ParallelApi.pdb

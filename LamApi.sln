@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LamApi", "LamApi\LamApi.csproj", "{F4631F62-7E98-4FF8-85C8-47AE485A97F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LamApi.Tests", "LamApi.Tests\LamApi.Tests.csproj", "{57CEBD54-B183-4077-9AF2-8242F914F44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelApi", "ParallelApi\ParallelApi.csproj", "{E3A5B7F3-358E-4C67-AD70-D9D591D04F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4631F62-7E98-4FF8-85C8-47AE485A97F1}.Debug|x86.ActiveCfg = Debug|x86
+		{F4631F62-7E98-4FF8-85C8-47AE485A97F1}.Debug|x86.Build.0 = Debug|x86
+		{F4631F62-7E98-4FF8-85C8-47AE485A97F1}.Release|x86.ActiveCfg = Release|x86
+		{F4631F62-7E98-4FF8-85C8-47AE485A97F1}.Release|x86.Build.0 = Release|x86
+		{57CEBD54-B183-4077-9AF2-8242F914F44D}.Debug|x86.ActiveCfg = Debug|x86
+		{57CEBD54-B183-4077-9AF2-8242F914F44D}.Debug|x86.Build.0 = Debug|x86
+		{57CEBD54-B183-4077-9AF2-8242F914F44D}.Release|x86.ActiveCfg = Release|x86
+		{57CEBD54-B183-4077-9AF2-8242F914F44D}.Release|x86.Build.0 = Release|x86
+		{E3A5B7F3-358E-4C67-AD70-D9D591D04F0D}.Debug|x86.ActiveCfg = Debug|x86
+		{E3A5B7F3-358E-4C67-AD70-D9D591D04F0D}.Debug|x86.Build.0 = Debug|x86
+		{E3A5B7F3-358E-4C67-AD70-D9D591D04F0D}.Release|x86.ActiveCfg = Release|x86
+		{E3A5B7F3-358E-4C67-AD70-D9D591D04F0D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
